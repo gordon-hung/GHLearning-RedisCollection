@@ -1,0 +1,6 @@
+﻿@GHLearning.RedisSample_HostAddress = http://localhost:5080
+
+GET {{GHLearning.RedisSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
