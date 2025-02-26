@@ -3,7 +3,7 @@ Gordon Hung Learning Redis Collection
 
 Redis is an open-source, high-performance key-value database, commonly used as a caching system or message broker. The name Redis stands for REmote DIctionary Server, which reflects its function as a remote dictionary service. It supports a variety of data structures, including strings, hashes, lists, sets, and sorted sets, making it highly versatile for handling different types of data.
 
-## Here are some of Redis' key features:
+## Here are some of Redis' key features
 
 - High Performance: Redis is incredibly fast because it operates entirely in-memory. Most operations are performed in microseconds, which makes it ideal for use cases that require fast data access, such as caching.
 
@@ -21,7 +21,7 @@ Redis is widely used not only as a cache but also for message queues, counters, 
 
 If you want to dive deeper, Redis also supports advanced features like pub/sub messaging, Lua scripting, and transactions.
 
-## Summary of Use Cases:
+## Summary of Use Cases
 - Strings: Simple data like counters, session IDs.
 - Hashes: Representing objects with multiple fields (e.g., user profiles).
 - Lists: Queues, task lists, or event histories.
